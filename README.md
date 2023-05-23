@@ -39,8 +39,8 @@ Step 4: Test for the XOR patterns.
 
 ## PROGRAM:
 ~~~
-Developed by: Ragul M
-Reg no:212221230080
+Developed by: balaji j
+Reg no:212221243001
 ~~~
 ~~~
 import numpy as np
@@ -118,9 +118,9 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 ~~~
 ## OUTPUT :
     
-![img1]()   
+![img1](https://github.com/Balaji-Jothiramalingam/Experiment-5-Implementation-of-XOR-using-RBF/blob/main/img1.png)   
 
-![img1]()
+![img2](https://github.com/Balaji-Jothiramalingam/Experiment-5-Implementation-of-XOR-using-RBF/blob/main/img2.png)
 
 ## RESULT:
 
